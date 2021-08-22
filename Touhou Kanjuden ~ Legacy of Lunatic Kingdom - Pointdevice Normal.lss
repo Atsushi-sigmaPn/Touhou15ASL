@@ -88,15 +88,6 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>-Lunatic Gun</Name>
-      <Icon />
-      <SplitTimes>
-        <SplitTime name="Personal Best" />
-      </SplitTimes>
-      <BestSegmentTime />
-      <SegmentHistory />
-    </Segment>
-    <Segment>
       <Name>Stage 1</Name>
       <Icon />
       <SplitTimes>
