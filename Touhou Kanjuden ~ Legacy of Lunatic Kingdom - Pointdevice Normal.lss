@@ -13,12 +13,10 @@
   </Metadata>
   <Offset>00:00:00</Offset>
   <AttemptCount>0</AttemptCount>
-  <AttemptHistory>
-    <Attempt id="1" started="08/21/2021 06:24:47" isStartedSynced="True" ended="08/21/2021 06:24:54" isEndedSynced="True" />
-  </AttemptHistory>
+  <AttemptHistory />
   <Segments>
     <Segment>
-      <Name>Stage 1-Segment 1</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -27,7 +25,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 1-Segment 2</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -36,7 +34,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 1-Seiran + Segment 3</Name>
+      <Name>-清蘭 1 + Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -45,7 +43,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 1-Seiran 2</Name>
+      <Name>-清蘭 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -54,7 +52,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 1-Segment 4</Name>
+      <Name>Stage 1 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -63,7 +61,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Seiran (Boss 1)-Non-Spell 1</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -72,7 +70,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Seiran (Boss 1)-The Eagle Has Shot Its Target</Name>
+      <Name>-イーグルシューティング</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -81,7 +79,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Seiran (Boss 1)-Non-Spell 2</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -90,7 +88,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Seiran (Boss 1)-Lunatic Gun</Name>
+      <Name>-Lunatic Gun</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -99,7 +97,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Segment 1</Name>
+      <Name>Stage 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -108,7 +106,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Segment 2</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -117,7 +115,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Segment 3</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -126,7 +124,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Ringo</Name>
+      <Name>-Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -135,7 +133,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Segment 4</Name>
+      <Name>-鈴瑚</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -144,7 +142,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 2-Segment 5</Name>
+      <Name>-Chapter 4</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -153,7 +151,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Non-Spell 1</Name>
+      <Name>Stage 2 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -162,7 +160,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Berry Berry Dango</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -171,7 +169,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Non-Spell 2</Name>
+      <Name>-ストロベリーダンゴ</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -180,7 +178,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Dango Influence</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -189,7 +187,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Non-Spell 3</Name>
+      <Name>-ダンゴインフリューエンス</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -198,7 +196,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Ringo (Boss 2)-Lunatic September</Name>
+      <Name>-通常弾３</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -207,7 +205,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Segment 1</Name>
+      <Name>Stage 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -216,7 +214,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Segment 2</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -225,7 +223,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Segment 3</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -234,7 +232,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Doremy</Name>
+      <Name>-Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -243,7 +241,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Segment 4</Name>
+      <Name>-ドレミー・スイート</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -252,7 +250,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 3-Segment 5</Name>
+      <Name>-ドレミー・スイート [緋色の悪夢]</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -261,7 +259,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Non-Spell 1</Name>
+      <Name>-Chapter 4</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -270,7 +268,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Eternally Anxious Dream</Name>
+      <Name>Stage 3 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -279,7 +277,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Non-Spell 2</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -288,7 +286,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Ochre Labyrinthine Confusion</Name>
+      <Name>-藍色の愁夢</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -297,7 +295,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Non-Spell 3</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -306,7 +304,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Losing Oneself in a Dream</Name>
+      <Name>-刈安色の迷夢</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -315,7 +313,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Doremy Sweet (Boss 3)-Ultramarine Lunatic Dream</Name>
+      <Name>-通常弾３</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -324,7 +322,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Segment 1</Name>
+      <Name>-ドリームキャッチャー</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -333,7 +331,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Segment 2</Name>
+      <Name>Stage 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -342,7 +340,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Segment 3</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -351,7 +349,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Sagume</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -360,7 +358,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Segment 4</Name>
+      <Name>-Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -369,7 +367,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 4-Segment 5</Name>
+      <Name>-稀神サグメ + Chapter 4</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -378,7 +376,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Non-Spell 1</Name>
+      <Name>Stage 4 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -387,7 +385,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Disorderly Flock's Duplex Curse</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -396,7 +394,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Non-Spell 2</Name>
+      <Name>-烏合の呪</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -405,7 +403,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Impure Body Detection Mines</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -414,7 +412,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Non-Spell 3</Name>
+      <Name>-穢身探知型機雷</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -423,7 +421,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-Shining Shotgun Coronation of the Gods</Name>
+      <Name>-通常弾３</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -432,7 +430,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Sagume Kishin (Boss 4)-One-Winged White Heron</Name>
+      <Name>-神々の弾冠</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -441,7 +439,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 1</Name>
+      <Name>Stage 4</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -450,7 +448,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 2</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -459,7 +457,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 3</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -468,7 +466,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 4</Name>
+      <Name>-Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -477,7 +475,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 5</Name>
+      <Name>-Chapter 4</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -486,7 +484,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 6</Name>
+      <Name>-Chapter 5</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -495,7 +493,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 7 + 8</Name>
+      <Name>-Chapter 6</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -504,7 +502,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 5-Segment 9</Name>
+      <Name>-Chapter 7 + 8</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -513,7 +511,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Non-Spell 1</Name>
+      <Name>Stage 5 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -522,7 +520,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Eclipse of Hell</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -531,7 +529,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Non-Spell 2</Name>
+      <Name>-ヘルエクリプス</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -540,7 +538,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Star and Stripe</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -549,7 +547,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Non-Spell 3</Name>
+      <Name>-フラッシュアンドストライプ</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -558,7 +556,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Infernal Essence of Grazing</Name>
+      <Name>-通常弾３</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -567,7 +565,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Striped Abyss</Name>
+      <Name>-グレイズインフェルノ</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -576,7 +574,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Clownpiece (Boss 5)-Appollo Hoax Theory</Name>
+      <Name>-ストライプドアビス</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -585,7 +583,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 6-Segment 1</Name>
+      <Name>Stage 5</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -594,7 +592,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 6-Segment 2</Name>
+      <Name>-Chapter 1</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -603,7 +601,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 6-Segment 3</Name>
+      <Name>-Chapter 2</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -612,7 +610,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Stage 6-Segment 4</Name>
+      <Name>-Chapter 3</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -621,7 +619,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Non-Spell 1</Name>
+      <Name>Stage 6 道中</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -630,7 +628,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Pure Light of the Palm</Name>
+      <Name>-通常弾１</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -639,7 +637,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Non-Spell 2</Name>
+      <Name>-掌の純光</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -648,7 +646,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Lilies of Murderous Intent</Name>
+      <Name>-通常弾２</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -657,7 +655,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Non-Spell 3</Name>
+      <Name>-殺意の百合</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -666,7 +664,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Modern Divine Spirit World</Name>
+      <Name>-通常弾３</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -675,7 +673,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Non-Spell 4</Name>
+      <Name>-原始の神霊界</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -684,7 +682,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Trembling, Shivering Star</Name>
+      <Name>-通常弾４</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -693,7 +691,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Pristine Lunacy</Name>
+      <Name>-震え凍える星</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -702,7 +700,7 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-Refinement of Earthen Impurity</Name>
+      <Name>-純粋なる狂気</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
@@ -711,7 +709,16 @@
       <SegmentHistory />
     </Segment>
     <Segment>
-      <Name>Junko (Boss 6)-A Pristine Danmaku Hell</Name>
+      <Name>-溢れ出る瑕穢</Name>
+      <Icon />
+      <SplitTimes>
+        <SplitTime name="Personal Best" />
+      </SplitTimes>
+      <BestSegmentTime />
+      <SegmentHistory />
+    </Segment>
+    <Segment>
+      <Name>Stage 6</Name>
       <Icon />
       <SplitTimes>
         <SplitTime name="Personal Best" />
